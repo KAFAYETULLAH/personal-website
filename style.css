@@ -1,5 +1,117 @@
 body{
+  margin:0;
+  background-color:;
   font-family: 'Montserrat', sans-serif;
   font-family: 'Open Sans', sans-serif;
   font-family: 'ZCOOL XiaoWei', serif;
+  font-family: 'Philosopher', sans-serif;
+  font-family: 'Concert One', cursive;
+  font-family: 'Philosopher', sans-serif;
   }
+h1{
+  text-align:center;
+  color:white;
+  margin-top:60px;
+}
+h3{
+  text-align:center;
+}
+p{
+  text-align: center;
+  font-family: montserrat;
+  font-size: 12px;
+  color:rgb(255, 255, 255);
+  font-weight:100;
+  margin-bottom:25px;
+}
+.half-width{
+  width:40%;
+  float: left;
+  margin-left: 5px;
+  padding-left:30px;
+}
+.first-section{
+  height: 300px;
+  background-color:#86283c;
+  background-image: url("images/header-bg.pn");
+  background-repeat: no-repeat;
+}
+.kafayet{
+  margin-top: 0;
+}
+.half-width img{
+  padding-top: 40px;
+  width: 200px;
+  height: 258px;
+}
+.btn{
+  text-decoration:none;
+  background-color:#8049d1;
+  padding:8px 15px;
+  color:rgb(255, 230, 0);
+  border-radius:10px;
+  font-weight: 700;
+  margin-left: 30%;
+}
+.second-section{
+  height: 300px;
+  background-color: #270d4e;
+  background-image: url("images/biography-bg.pn");
+  background-repeat: no-repeat;
+}
+
+
+
+.third-section{
+  height: 300px;
+  background-color:orange;
+}
+.latest-work{
+  margin-top:0;
+  padding-top:20px;
+  color:black;
+}
+.gallery{
+  width: 30%;
+  float: left;
+  margin-left: 5px;
+  padding:30px 10px;
+}
+.gallery img{
+  width:100%;
+}
+
+
+
+
+.fourth-section{
+  background-color: rgb(108, 62, 139);
+}
+span{
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: 100;
+}
+.client{
+  margin-top:0;
+  padding-top:30px;
+  color:#ffffff;
+}
+.babu{
+  background-color:#ff0281;
+  margin:0 20%;
+  border-radius: 10px;
+  color:white;
+  padding:20px 0px;
+  margin-top: 50px;
+}
+h3{
+  color:white;
+}
+h4{
+  text-align: center;
+  margin-top: 50px;
+  color:rgba(247, 247, 247, 0.678);
+  padding-bottom: 10px;
+  font-size: 13px;
+}
